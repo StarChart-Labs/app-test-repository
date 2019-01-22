@@ -1,0 +1,7 @@
+productionFiles:
+   include:
+      - '**/README*'
+releaseNoteFiles:
+   include:
+      - '**/CHANGE*LOG*'
+      - '**/RELEASE*NOTES*'
